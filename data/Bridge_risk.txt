@@ -1,0 +1,6 @@
+Bridge ID  7-8
+SRR     16
+FRR     24
+SUR     32
+ERR     40
+Risk Score   47-48
