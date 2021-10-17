@@ -1,0 +1,19 @@
+Dataset:  bridge_risk.dat
+
+Source: Y-M. Wang and T.M.S. Elhag (2007). "A Comparison of Neural Network,
+Evidential Reasoning and Multiple Regression Analysis in Modelling
+Bridge Risks," Expert Systems with Applications, Vol. 32, pp. 336-348.
+
+Description: Data for 66 bridges in Britain, with predictors:
+Safety Risk Rating (SRR), Functionality Risk Rating (FRR), sustainability
+risk rating (SUR), and Environment Risk Rating (ERR). Each is scaled
+as: 3=High, 2=Medium, 1=Low, 0=None. The response is Risk Score, a measure
+of maintenance priority of the bridge.
+
+Variables/Columns
+Bridge ID  7-8
+SRR     16
+FRR     24
+SUR     32
+ERR     40
+Risk Score   47-48
